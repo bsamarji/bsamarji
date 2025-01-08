@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bsamarji
+- 👋 Hi, I’m Ben a software engineer in the EGENES team at SRUC. I currently use SQL, Python and shell scripting in my day job.
 - 👀 I’m interested in data pipelines and data workflows and becoming a better programmer.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on my common-utilities project.
