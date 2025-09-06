@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ben a software developer in the EGENES team at SRUC. I currently use SQL, Python and shell scripting in my day job.
-- 👀 I’m interested in data pipelines and data workflows and becoming a better programmer.
+- 👀 I’m interested in system design and learning.
 - 🌱 I’m currently following the back-end developer path on boot.dev to upskill and become a better developer!
 
 <p align="left">
