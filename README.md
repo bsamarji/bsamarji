@@ -24,8 +24,6 @@ fields_of_interest:
   "Security"
   ]
 
-currently_building: Keepr - An encrypted CLI password manager
-
 currently_learning: Following the Boot.dev Backend Developer Path
 
 hobbies: ["rowing", "hiking", "coffee", "reading", "gaming", "films"]
@@ -38,6 +36,10 @@ hobbies: ["rowing", "hiking", "coffee", "reading", "gaming", "films"]
   <img height="50" src="https://cdn-icons-png.freepik.com/512/725/725337.png?ga=GA1.1.762210953.1764855097"/>
   </a>
 </div>
+
+### Current Projects
+
+* [Keepr - An encrypted CLI password manager, built for developers.](https://github.com/bsamarji/Keepr)
 
 ### Technologies I Use 
 <p>
