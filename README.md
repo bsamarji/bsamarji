@@ -35,10 +35,6 @@ hobbies: ["rowing", "coffee", "reading", "gaming", "films"]
   </a>
 </div>
 
-### Current Projects
-
-* [Keepr - An encrypted CLI password manager, built for developers.](https://github.com/bsamarji/Keepr)
-
 ### Technologies I Use 
 <p>
 <img alt="Go" src="https://img.shields.io/badge/-Go-46a2f1?style=flat-square&logo=go&logoColor=white" />
