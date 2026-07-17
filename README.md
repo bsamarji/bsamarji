@@ -22,7 +22,7 @@ fields_of_interest:
   "DevOps",
   ]
 
-currently_learning: Pub/Sub and RabbitMQ
+currently_learning: System design
 
 hobbies: ["rowing", "coffee", "reading", "gaming", "films"]
 
