@@ -24,7 +24,7 @@ fields_of_interest:
 
 currently_learning: Pub/Sub and RabbitMQ
 
-hobbies: ["rowing", "hiking", "coffee", "reading", "gaming", "films"]
+hobbies: ["rowing", "coffee", "reading", "gaming", "films"]
 
 ```
 
